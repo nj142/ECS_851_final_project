@@ -1,4 +1,4 @@
-# 🧊 Using Machine Learning to Investigate Global Freeze-Up of Lake Ice
+# Using Machine Learning to Investigate Global Freeze-Up of Lake Ice
 
 **Team Members:** Noah Jacobs  
 **Semester:** Fall 2025  

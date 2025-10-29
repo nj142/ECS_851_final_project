@@ -25,7 +25,7 @@ Accurate monitoring of lake freeze-up at global scales is critical for understan
 
 ---
 
-## 🧩 Planned Methods / Approach
+## 🔎 Planned Methods / Approach
 
 Step 0. **Data Collection and Preprocessing**
    - Extract 50×50 km grid cells globally across a Mollweide equal area projection and clip **lake masks** from the Prior Lake Database (PLD) for a stratified sample of 50x50km cells across multiple biomes and latitudes.
@@ -52,7 +52,7 @@ Step 4. **Freeze-Up Time Series Generation**
 
 ---
 
-## 🌍 Datasets
+## 📊 Datasets
 
 | Dataset | Description | Source / Link |
 |----------|--------------|----------------|

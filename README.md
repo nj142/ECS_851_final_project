@@ -3,7 +3,7 @@
 **Team Members:** Noah Jacobs  
 **Semester:** Fall 2025  
 **Instructor:** Dr. Johnny Ryan  
-**Institution:** University of Illinois Urbana-Champaign  
+**Institution:** Duke University 
 
 ---
 

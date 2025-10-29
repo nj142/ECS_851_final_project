@@ -42,7 +42,7 @@ Step 2. **Model Development**
    - Tune hyperparameters using grid search and cross-validation.
 
 Step 3. **Model Evaluation**
-   - Manually delineate first full open water image and last full ice image, and assess accuracy based on median estimated date between those two dates.
+   - Manually delineate last full open water image and first full ice image, and assess accuracy based on median estimated freeze-up between those two dates.
    - Identify the **best model** across regions to apply to a global scale.
 
 Step 4. **Freeze-Up Time Series Generation**

@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Project Summary
+## 🧊 Project Summary
 When studying ice cover dynamics on lakes and ponds in cold climates, determining freeze-up dates is challenging-- especially at high latitudes due to low sun angles and frequent cloud cover during the freeze-up season.  
 This project applies **machine learning techniques** to detect and analyze **lake freeze-up timing** globally using Sentinel-2 imagery.  
 The repository includes a reproducible Jupyter-based workflow for classifying freeze-up stages within 50×50 km grid cells containing high-resolution lake masks. The workflow outputs lake-specific time series of ice cover, integrating validation datasets, rapid GEE preprocessing, and temporal analysis.
@@ -62,7 +62,7 @@ Step 4. **Freeze-Up Time Series Generation**
 
 ---
 
-## 🧠 Python Packages Required
+## 🐍 Python Packages Required
 
 ```python
 pandas

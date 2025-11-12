@@ -8,9 +8,8 @@
 ---
 
 ## 🧊 Project Summary
-When studying ice cover dynamics on lakes and ponds in cold climates, determining freeze-up dates is challenging-- especially at high latitudes due to low sun angles and frequent cloud cover during the freeze-up season.  
-This project applies **machine learning techniques** to detect and analyze **lake freeze-up timing** globally using Sentinel-2 imagery.  
-The repository includes a reproducible Jupyter-based workflow for classifying freeze-up stages within 50×50 km grid cells containing high-resolution lake masks. The workflow outputs lake-specific time series of ice cover, integrating validation datasets, rapid GEE preprocessing, and temporal analysis.
+
+This project applies **machine learning techniques** to detect and analyze **lake freeze-up timing** globally using Sentinel-2 imagery. The repository includes a reproducible Jupyter-based workflow for classifying freeze-up stages within 50×50 km grid cells containing high-resolution lake masks. The workflow outputs lake-specific time series of ice cover, integrating validation datasets, rapid GEE preprocessing, and temporal analysis.
 
 ---
 
@@ -18,9 +17,13 @@ The repository includes a reproducible Jupyter-based workflow for classifying fr
 Accurate monitoring of lake freeze-up at global scales is critical for understanding hydrological and climatic processes across the cryosphere. However, remote sensing detection of lake ice is hindered by **low solar angles**, **persistent cloud cover**, and **limited satellite revisit rates** especially at high latitudes.
 
 **Objectives / Expected Outcomes:**
+
 1. Develop and evaluate multiple machine learning models (e.g., **Random Forest**, **Semantic Segmentation CNN**) for detecting lake ice cover from Sentinel-2 imagery.  
+
 2. Quantify model accuracy in identifying freeze-up timing across diverse climatic and latitudinal zones.  
+
 3. Implement the best-performing model into an **interactive Jupyter Notebook** to automate classification and time series generation for randomly selected global grid cells.  
+
 4. Compare regional patterns of freeze-up timing to Arctic Oscillation (AO) and ENSO indices for large-scale climate analysis.
 
 ---
@@ -62,7 +65,7 @@ Step 4. **Freeze-Up Time Series Generation**
 
 ---
 
-## 🐍 Python Packages Required
+## 🐍 Python Packages
 
 ```python
 pandas

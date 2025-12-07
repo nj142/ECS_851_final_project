@@ -46,7 +46,7 @@ Step 3. **Model Evaluation**
    - Assess accuracy based on test dataset
    - Identify the **best model** across regions to apply to a global scale for further analysis
 
-Step 4. **Freeze-Up Time Series Generation (Incomplete)**
+Step 4. **Freeze-Up Time Series Generation (In progress)**
    - Apply the selected model to multi-temporal imagery.
    - Extract per-lake freeze-up date (defined as first persistent ice detection).
    - Visualize and export results as **time series CSVs** of ice cover.

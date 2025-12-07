@@ -26,7 +26,7 @@ Accurate monitoring of lake freeze-up at global scales is critical for understan
 
 ---
 
-## Planned Methods / Approach
+## Methods
 
 Step 0. **Data Collection and Preprocessing**
    - Select 50×50 km grid cells from an equal area projection (e.g. Alaska Albers or Mollweide)

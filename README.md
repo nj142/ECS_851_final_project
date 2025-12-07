@@ -74,6 +74,7 @@ cv2
 numpy
 matplotlib & pyplot
 pyarrow & parquet
+xml
 scikit-learn
 joblib
 tensorflow

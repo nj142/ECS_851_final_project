@@ -68,6 +68,8 @@ Step 4. **Freeze-Up Time Series Generation (Incomplete)**
 
 ```python
 pandas
+pystac_client
+requests
 cv2
 numpy
 matplotlib & pyplot

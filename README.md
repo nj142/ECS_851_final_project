@@ -25,7 +25,7 @@ Accurate monitoring of lake freeze-up at global scales is critical for understan
 
 2. Quantify model accuracy in identifying freeze-up timing across diverse climatic and latitudinal zones.  
 
-3. Implement the best-performing model frond from GridSearchCV hyperparameter tuning into an **interactive Jupyter Notebook** to automate classification and time series generation for selected study site cells.  
+3. Implement the best-performing model frond from GridSearchCV hyperparameter tuning into an **interactive Jupyter Notebook** to automate classification and time series generation for selected study sites.  
 
 ---
 

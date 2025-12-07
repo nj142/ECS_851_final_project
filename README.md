@@ -1,5 +1,3 @@
-<img width="2941" height="3571" alt="YKD_footprints_summary" src="https://github.com/user-attachments/assets/79f01f1b-dac1-4652-99a9-3fd8daeb7abd" /># Using Machine Learning to Investigate Global Freeze-Up of Lake Ice
-
 **Team Members:** Noah Jacobs  
 **Semester:** Fall 2025  
 **Instructor:** Dr. Johnny Ryan  

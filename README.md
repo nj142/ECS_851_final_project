@@ -1,9 +1,10 @@
+
+<img width="1317" height="650" alt="image" src="https://github.com/user-attachments/assets/cb51df73-55c8-4a5c-b40c-081c30fa834f" />
+
 **Team Members:** Noah Jacobs  
 **Semester:** Fall 2025  
 **Instructor:** Dr. Johnny Ryan  
 **Institution:** Duke University 
-
-<img width="1317" height="650" alt="image" src="https://github.com/user-attachments/assets/cb51df73-55c8-4a5c-b40c-081c30fa834f" />
 
 ---
 

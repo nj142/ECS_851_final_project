@@ -57,7 +57,7 @@ Step 4. **Freeze-Up Time Series Generation (Incomplete)**
 | **Prior Lake Database (PLD)** | High-resolution global lake mask dataset supplemented with small lakes (≥0.001 km²) | [Wang et al. 2025, Water Resources Research](https://doi.org/10.1029/2023WR036896) |
 | **Sentinel-2 SR Imagery (2017–2025)** | Multispectral imagery used for ice classification | AWS STAC API |
 | **Labelbox Annotations** | Manual delineations used to supplement lake masks | Generated from prior PhD repositoryby Noah Jacobs |
-| **ALPOD Lake Masks for Alaska** | Alaska-specific high resolution lake masks created by Eric Levenson [Levenson et al. 2025, Geophysical Research Letters](https://doi.org/10.1029/2024GL112771) |
+| **ALPOD Lake Masks for Alaska** | Alaska-specific high resolution lake masks created by Eric Levenson | [Levenson et al. 2025, Geophysical Research Letters](https://doi.org/10.1029/2024GL112771) |
 
 ---
 
